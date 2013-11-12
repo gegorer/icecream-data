@@ -1,0 +1,20 @@
+Service:
+    COFFEE         : Let's Cafe
+    ICE            : 漾冰沙
+    FamiChannel    : FamiChannel
+    Photo          : 相片立可得
+    SWEETPOTATO    : 夯番薯
+    WiFi           : Fami-WiFi
+    curryegg       : 關東煮本舖 咖哩魚蛋
+    icecream       : Fami 霜淇淋
+    kantoni        : 關東煮本舖 麻辣雙鍋
+Infomation:
+    NAME           : 店名
+    TEL            : 電話號碼
+    addr           : 住址
+    pkey           : unknown
+    post           : 郵遞區號
+    px             : longitude
+    py             : latitude
+    road           : road
+    SERID          : id
