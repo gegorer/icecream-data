@@ -2,9 +2,9 @@ import sqlite3
 import json
 
 def main():
-    allShopInfo = json.load(open('all-shop.json'))
+    allShopInfo = json.load(open('all_shop.json'))
 
-    con = sqlite3.connect('all-shop.sqlite')
+    con = sqlite3.connect('all_shop.sqlite')
     cur = con.cursor()
     cur.execute('''DROP TABLE IF EXISTS `info`''')
     cur.execute('''CREATE TABLE `info` (`version` TEXT)''')
